@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/educational/static/css/main.ac15a050.css",
+    "main.js": "/educational/static/js/main.3941da17.js",
+    "static/js/453.c500f239.chunk.js": "/educational/static/js/453.c500f239.chunk.js",
+    "static/media/heroAll.webp": "/educational/static/media/heroAll.93d3f802b480eeabae07.webp",
+    "static/media/t1.webp": "/educational/static/media/t1.aed58a44bd60d51d7c46.webp",
+    "static/media/barend.webp": "/educational/static/media/barend.031ce77a398171427673.webp",
+    "static/media/hero.webp": "/educational/static/media/hero.baa1024a4ae092566a75.webp",
+    "static/media/t3.webp": "/educational/static/media/t3.40c3d8b184e2e8c8120c.webp",
+    "static/media/about.webp": "/educational/static/media/about.22f0f6ac19b3c2f6a0e8.webp",
+    "static/media/t4.webp": "/educational/static/media/t4.59f46c3cc1eab6dcf68b.webp",
+    "static/media/b3.webp": "/educational/static/media/b3.ca529ec00626375a6a79.webp",
+    "static/media/t2.webp": "/educational/static/media/t2.0ae9fe035ad7bd3d1169.webp",
+    "static/media/b2.webp": "/educational/static/media/b2.70157d5c97cdb1ed20bf.webp",
+    "static/media/b4.webp": "/educational/static/media/b4.9a4bc783322538145366.webp",
+    "static/media/b6.webp": "/educational/static/media/b6.056112fa3a1e887db55e.webp",
+    "static/media/b5.webp": "/educational/static/media/b5.8fa502abfabe136af0ad.webp",
+    "index.html": "/educational/index.html",
+    "main.ac15a050.css.map": "/educational/static/css/main.ac15a050.css.map",
+    "main.3941da17.js.map": "/educational/static/js/main.3941da17.js.map",
+    "453.c500f239.chunk.js.map": "/educational/static/js/453.c500f239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac15a050.css",
+    "static/js/main.3941da17.js"
+  ]
+}
