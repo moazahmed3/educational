@@ -1,0 +1,10 @@
+.course ,p,h4{
+    transition: all ease .55s;
+}
+.course:hover{
+    background-color: var(--main-color) !important;
+    cursor: pointer;
+}
+.course:hover .course-text p , .course:hover  .course-text h4 {
+    color: var(--sec-color) !important;
+}

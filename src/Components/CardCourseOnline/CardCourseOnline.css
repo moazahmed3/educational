@@ -1,0 +1,15 @@
+
+.cardOnline svg {
+  font-size: 100px;
+}
+.cardOnline {
+  transition: all ease 0.55s;
+}
+.cardOnline:hover {
+  color: var(--sec-color) !important;
+  cursor: pointer;
+  background-color: var(--main-color) !important;
+}
+.cardOnline:hover svg {
+  color: var(--sec-color) !important;
+}

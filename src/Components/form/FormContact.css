@@ -1,0 +1,7 @@
+.formContact{
+    background-color: var(--main-color);
+}
+.formContact input:focus{
+    border: none !important;
+    outline: none;
+}

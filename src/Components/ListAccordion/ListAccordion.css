@@ -1,0 +1,26 @@
+.accordion-item{
+    margin-bottom: 20px;
+    border: none !important;
+}
+.accordion-button{
+    border-radius: 10px;
+    transition: all ease .55s;
+    color: var(--main-color) !important;
+    font-size: 25px !important;
+    box-shadow: 0 24px 36px -11px rgb(0 0 0 / 9%);
+}
+.accordion-button:focus {
+    box-shadow: none !important;
+}
+.accordion-button:not(.collapsed){
+    background-color: var(--main-color) !important;
+    color: var(--sec-color) !important;
+}
+
+.accordion-button:hover{
+    background: var(--main-color) !important;
+    color: var(--sec-color) !important;
+}
+.accordion-button::after{
+    color: var(--main-color) !important;
+}

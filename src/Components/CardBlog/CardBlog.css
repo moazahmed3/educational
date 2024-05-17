@@ -1,0 +1,10 @@
+.cardBlog{
+    box-shadow: 0 5px 25px -2px rgb(0 0 0/6%);
+}
+.cardBlog h3{
+    cursor: pointer;
+    transition: all ease .55s;
+}
+.cardBlog h3:hover{
+    color: var(--main-color);
+}

@@ -1,0 +1,34 @@
+.cardCourse{
+    background-color: #fff;
+    padding: 20px;
+}
+.cardCourse img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+.icon-course{
+    background-color: var(--main-color);
+    display: inline-block;
+}
+.icon-course svg{
+    color: var(--sec-color);
+    font-size: 50px;
+}
+
+.stars .star, .hours , .content-course{
+    color: var(--main-color);
+}
+.content-course{
+    background-color: #f8f8f8;
+    width: 100%;
+}
+.btn-course{
+    border-color:var(--main-color) !important ;
+    color: var(--main-color) !important;
+    transition:  all ease .55s !important;
+}
+.btn-course:hover{
+    background-color: var(--main-color) !important;
+    color: var(--sec-color) !important;
+}

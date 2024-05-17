@@ -1,0 +1,35 @@
+.head{
+    color: var(--sec-color);
+}
+.heading h1{
+    font-weight: 600;
+}
+.social-media span{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, .3);
+    padding: 5px;
+    text-align: center;
+    color: var(--main-color);
+    transition: all ease .3s;
+}
+.social-media span:hover{
+    color: var(--sec-color);
+    background-color: var(--main-color);
+    cursor: pointer;
+}
+.social-media span svg{
+    font-size: 20px;
+}
+@media (min-width: 400px) {
+    .heading{
+        text-align: center;
+    }
+
+    .social-media {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+}
